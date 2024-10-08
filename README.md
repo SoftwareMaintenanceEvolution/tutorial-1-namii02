@@ -3,12 +3,17 @@
 # Introduction
 Hi! I'm Iman, a student in the Software Maintenance
 and Evolution course.
-I expect to learn a lot about modern software maintenance
-practices and how to work with legacy systems.
-- **Course expectations**: To gain hands-on experience in
-maintaining and evolving software.
+
+### 🎯 Software Maintenance: My Mission
+
+In the **Software Maintenance** course, I hope I can do the following:
+
+- 🛠️ **Refactoring web applications** to make them faster and more efficient.
+- 🔍 Understanding how to maintain large-scale web systems and **optimize legacy codebases**.
+- 🔧 Mastering tools that track bugs, improve web performance, and **ensure smooth deployment**.
 
 ---
+### I like to play games so i just used this to represent myself
 
 ![Profile Picture](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-namii02/blob/profile-upload/dualsense.jpeg)
 
