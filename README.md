@@ -9,10 +9,11 @@ practices and how to work with legacy systems.
 maintaining and evolving software.
 
 ---
-(https://github.com/SoftwareMaintenanceEvolution/tutorial-1-namii02/blob/profile-upload/dualsense.jpeg)
+
+![Profile Picture](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-namii02/blob/profile-upload/dualsense.jpeg)
+
 --- 
 
 ## GitHub Profile
 You can view my personalized GitHub profile
-[here]((https://github.com/namii02)).
-
+[here](https://github.com/namii02)
